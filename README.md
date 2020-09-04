@@ -1,2 +1,2 @@
-# FCC-Ruby
+# GA-Ruby
 Just to learn more about Ruby.
